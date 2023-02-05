@@ -1,5 +1,5 @@
-import { Component, createSignal, For, onMount } from "solid-js";
-import style from "./gallery.module.css";
+import { Component, createSignal, For, onMount } from 'solid-js';
+import style from './gallery.module.css';
 
 type Image = {
     title: string,

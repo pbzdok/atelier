@@ -4,9 +4,9 @@
 
 .logo {
   animation: logo-spin infinite 20s linear;
-  height: vmin;
+  height: 4vh;
   pointer-events: none;
-  margin: 2rem;
+  margin: 1rem;
 }
 
 .header {
